@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)]
+![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Marwan Sallum</h1>
 <h3 align="center">A passionate mobile and web application developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
@@ -12,8 +12,6 @@
 - 🌱 I’m currently learning **Azure DevOps**
 
 - 👯 I’m looking to collaborate on [Kyan web](https://github.com/MarwanSallum/kyan-web)
-
-- 👨‍💻 All of my projects are available at [https://github.com/MarwanSallum?tab=repositories](https://github.com/MarwanSallum?tab=repositories)
 
 - 💬 Ask me about **Laravel, Flutter,**
 
@@ -33,9 +31,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/masallum"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="masallum" /></a></p><br><br>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marwansallum&show_icons=true&locale=en&layout=compact" alt="marwansallum" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwansallum&show_icons=true&locale=en" alt="marwansallum" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwansallum&" alt="marwansallum" /></p>
-
